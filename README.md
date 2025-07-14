@@ -5,7 +5,8 @@
   - Computer Science
   - Architecture, Development, and software design.
 - 🌱 I’m currently learning ...
-  - .NET Aspire fundamentals
+  - .Net Aspire Deployments
+  - xUnit / TestContainer integrations
 - 💞️ I’m looking to collaborate on ... 
 - 📫 How to reach me ... 
 - 😄 Pronouns: ...   He/Him
